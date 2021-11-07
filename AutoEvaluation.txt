@@ -1,0 +1,6 @@
+Partie théorique : XPATH
+Les 4 questions ont été abordées, les réponses proposées sont disponibles dans le fichier "XPath.txt"
+
+
+Partie 2 : Application web
+Les 4 questions : 1, 2, 3b et 4b ont été abordées, les réponses proposées sont disponibles dans le fichier "ApplicationWeb.zip"
